@@ -27,7 +27,7 @@ A **simple and modern to-do app** built with React Native. This app allows users
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/todo-app.git
+   git clone https://github.com/Pmvita/Modern-ToDo-app
    cd todo-app
 
 2. Install the required dependencies:
